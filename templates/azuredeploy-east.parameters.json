@@ -2,26 +2,17 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "autoscalesettings_AzureUserGroupASP_AzureUserGoupDemo_name": {
-            "value": null
-        },
-        "components_azureusergoupdemo_name": {
-            "value": null
-        },
-        "components_azureusergroupdemo2_name": {
-            "value": null
-        },
-        "trafficManagerProfiles_AzureUserGroupDemo_name": {
-            "value": null
-        },
+      "autoscalesettings_AzureUserGroupASP_AzureUserGoupDemo_name": {
+        "value": "AzureUserGroupASP-AzureUserGoupDemo-East"
+      },
+      "components_azureusergoupdemo_name": {
+        "value": "AzureUserGroupDemo-East"
+      },
         "serverfarms_AzureUserGroupASP_name": {
-            "value": null
+            "value": "AzureUserGrouDemo"
         },
         "sites_AzureUserGoupDemo_name": {
-            "value": null
+            "value": "AzureUserGroupDemo-East"
         },
-        "sites_AzureUserGroupDemo2_name": {
-            "value": null
-        }
     }
 }

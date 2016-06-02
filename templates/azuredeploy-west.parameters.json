@@ -8,20 +8,11 @@
         "components_azureusergoupdemo_name": {
             "value": null
         },
-        "components_azureusergroupdemo2_name": {
-            "value": null
-        },
-        "trafficManagerProfiles_AzureUserGroupDemo_name": {
-            "value": null
-        },
         "serverfarms_AzureUserGroupASP_name": {
             "value": null
         },
         "sites_AzureUserGoupDemo_name": {
             "value": null
         },
-        "sites_AzureUserGroupDemo2_name": {
-            "value": null
-        }
     }
 }
