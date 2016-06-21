@@ -17,7 +17,7 @@
         "sites_AzureUserGoupDemo_name": {
             "defaultValue": "AzureUserGoupDemo",
             "type": "String"
-        },
+        }
     },
     "variables": {},
     "resources": [
