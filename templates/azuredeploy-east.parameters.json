@@ -9,7 +9,7 @@
         "value": "AzureUserGroupDemo-East"
       },
         "serverfarms_AzureUserGroupASP_name": {
-            "value": "AzureUserGrouDemo"
+            "value": "AzureUserGroupDemoASP"
         },
         "sites_AzureUserGoupDemo_name": {
             "value": "AzureUserGroupDemo-East"

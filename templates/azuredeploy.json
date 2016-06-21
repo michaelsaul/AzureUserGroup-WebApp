@@ -97,12 +97,12 @@
                 "name": "[parameters('sites_AzureUserGoupDemo_name')]",
                 "hostNames": [
                     "azureusergroupdemo.trafficmanager.net",
-                    "azureusergoupdemo.azurewebsites.net"
+                    "azureusergoupdemo-east.azurewebsites.net"
                 ],
                 "enabledHostNames": [
                     "azureusergroupdemo.trafficmanager.net",
-                    "azureusergoupdemo.azurewebsites.net",
-                    "azureusergoupdemo.scm.azurewebsites.net"
+                    "azureusergoupdemo-east.azurewebsites.net",
+                    "azureusergoupdemo-east.scm.azurewebsites.net"
                 ],
                 "hostNameSslStates": [
                     {
