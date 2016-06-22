@@ -10,4 +10,4 @@ Building on what we learned from the previous session, we will explore the App S
 
 Session 3: Global Distributed App Environments (June 21th)
 
-In our final session, we will explore the benefits of Azure App Service Environments and their ability to provide scalable, secure, and isolated environments. We will then demonstrate a geographically distributed application using Azure Traffic Manager for load balancing and failover.
+In our final session, we will then demonstrate a geographically distributed application using Azure Traffic Manager for load balancing and failover. We will also take alook at leveraging the Azure Daashboard and Azure Automation to enable basic monitoring and operations integration with Slack.
