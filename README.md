@@ -4,7 +4,7 @@ Find out more about Azure App Service [here] (https://azure.microsoft.com/en-us/
 
 
 
-##Session 1: Exploring Azure App Service (April 28th)
+##Session 1: Exploring Azure App Service (Los Angeles, April 28 & Irvine, July 19)
 
 In this session, we will take a look at the Azure App Service and how it can help you deploy Web, Mobile, API and Logic Apps. We will demonstrate deploying a lightweight web application, and integration with a GitHub repository. Finally, we will enable A/B Testing with the use of deployment slots.
 
@@ -16,7 +16,7 @@ In this session, we will take a look at the Azure App Service and how it can hel
 * Visual Studio Code (https://code.visualstudio.com)
 * Github (https://github.com)
 
-##Session 2: Extending Azure App Services (May 17th)
+##Session 2: Extending Azure App Services (Los Angeles, May 17 & Irvine, August 30)
 
 Building on what we learned from the previous session, we will explore the App Service Console and how we can extend the functionality of Azure App Service to support additional languages. We will demonstrate deployment of Ruby framework to the Azure App Service using Azure App Service Extensions or Kudu.
 
@@ -31,7 +31,7 @@ Building on what we learned from the previous session, we will explore the App S
 * Modified Deploy Script for Jekyll (http://rimdev.io/deploying-jekyll-to-windows-azure-app-services/)
 
 
-##Session 3: Global Distributed App Environments (June 21th)
+##Session 3: Global Distributed App Environments (Los Angeles, June 21 & Irvine, September)
 
 In our final session, we will demonstrate a geographically distributed application using Azure Traffic Manager for load balancing and failover. We will also take alook at leveraging the Azure Daashboard and Azure Automation to enable basic monitoring and operations integration with Slack.
 
