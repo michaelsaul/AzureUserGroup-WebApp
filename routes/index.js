@@ -6,7 +6,7 @@ var hostname = os.hostname();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: "Hello Azure User Group!" , hostname: hostname});
+  res.render('index', { title: 'Express' , hostname: hostname});
 });
 
 module.exports = router;
